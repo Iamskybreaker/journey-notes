@@ -10,6 +10,7 @@ I'm documenting everything publicly — the wins, struggles, and lessons.
 ## 🔥 My Mission
 To master ethical hacking & cloud security, stay consistent, and grow into a full-stack cyber warrior.
 
-Follow my progress across socials → [@Iamskybreaker](https://twitter.com/Iamskybreaker)
+Follow my progress across socials:
+twitter → [@Iamskybreaker](https://twitter.com/Iamskybreaker)
 
 #Skybreaker #Cybersecurity #LearningInPublic
